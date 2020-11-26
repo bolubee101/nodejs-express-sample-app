@@ -7,7 +7,7 @@
   "author": "Simplifyd",
   "license": "MIT",
   "scripts": {
-    "build": "node app.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "express": "^4.16.3"
